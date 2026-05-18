@@ -2,8 +2,8 @@
 
 
 
-
-# Hi there, I'm Haren <img src="./network-animation.gif" alt="Network Animation" width="80" align="center">
+                      <img src="./network-animation.gif" alt="Network Animation" width="80" align="center">
+# Hi there, I'm Haren 
 **Working Towards Being a Technical Asset in High-Performance Environments**
 
 With a CCNA and a specialization in Cyber and Network Security, I focus on mastering high-performance infrastructure. My technical deep-dives include Linux performance optimization, network stack internals, and cloud migration strategies. 
