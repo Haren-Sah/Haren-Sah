@@ -1,5 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+-->
 
                       
 # Hi, I'm Haren <img src="./network-animation.gif" alt="Network Animation" width="80" align="center">
@@ -28,7 +28,7 @@ With a CCNA and a specialization in Cyber and Network Security, I focus on maste
 ### 🚀 Current Focus
 *   **System Administration:** Actively preparing for the **Red Hat Certified System Administrator (RHCSA)** exam to validate enterprise-level Linux capabilities.
 *   **Infrastructure Labs:** Documenting low-level networking mechanics and systematic performance troubleshooting environments here on GitHub.
-
+<!--
 ---
 
 ### 📂 Featured Repositories & Labs
@@ -53,3 +53,5 @@ Being an expert technician requires more than just the command line; it requires
 
 *   🌐 **Portfolio Website:** [haren.dev](https://www.haren.dev)
 *   💼 **LinkedIn:** [linkedin.com/in/haren-sah1011](https://www.linkedin.com/in/haren-sah1011)
+
+-->
