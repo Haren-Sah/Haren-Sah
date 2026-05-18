@@ -1,3 +1,8 @@
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+
+
+
 # Hi there, I'm Haren 👋
 **Working Towards Being a Technical Asset in High-Performance Environments**
 
