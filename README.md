@@ -71,7 +71,7 @@ NetBox → Python → Topology Discovery → Jinja2 → Config Generation → Va
 ## 🤝 Connect
 
 - LinkedIn: https://www.linkedin.com/in/haren-sah1011
-- Portfolio: https://haren.dev
+- Portfolio: https://www.haren.dev
 
 ---
 
