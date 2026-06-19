@@ -8,14 +8,6 @@
 
 Network engineering student focused on **network security, infrastructure automation, and scalable network design**.
 
-I build systems using:
-- Network fundamentals (BGP, OSPF, L2/L3 design)
-- Infrastructure-as-Code principles
-- Python-based automation
-- Multi-vendor networking concepts (Cisco/Arista)
-
-Goal: **Network Development Engineer / Network Engineer Intern (AWS, Cloudflare, hyperscalers)**
-
 ---
 
 ## 🏆 Achievements
@@ -27,11 +19,3 @@ Goal: **Network Development Engineer / Network Engineer Intern (AWS, Cloudflare,
 
 ---
 
-## 🤝 Connect
-
-- LinkedIn: https://www.linkedin.com/in/haren-sah1011
-- Portfolio: https://www.haren.dev
-
----
-
-> “I build infrastructure systems, not just configurations.”
